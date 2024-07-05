@@ -1,8 +1,8 @@
-# ⚡️astro-bento-portfolio
+# ⚡️blog
 
 ## A personal portfolio website made using `Astro`.
 
-![astro-bento-portfolio | Bento-like Personal Porfolio Template](public/preview.png)
+![blog | Bento-like Personal Porfolio Template](public/preview.png)
 
 To view a demo example, **[click here](https://sparkly-speculoos-0c9197.netlify.app/)**
 
@@ -30,12 +30,12 @@ or my portfolio **[click here](https://gianmarco.xyz/)**
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Ladvace/astro-bento-portfolio
+$ git clone https://github.com/mezzzi/blog
 ```
 
 ```bash
 # Go into the repository
-$ cd astro-bento-portfolio
+$ cd blog
 ```
 
 ```bash
@@ -66,7 +66,7 @@ You just need to fork this repo and linking it to your Netlify account.
 
 or
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/astro-bento-portfolio)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ladvace/blog)
 
 ## Authors ❤️
 

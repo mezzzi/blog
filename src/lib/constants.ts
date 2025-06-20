@@ -1,5 +1,6 @@
 export const LINKS = {
   github: "https://github.com/mezzzi",
+  workGit: "https://github.com/mezigebu-zework-durolabs",
   linkedin: "https://www.linkedin.com/in/mezi/",
 };
 
